@@ -100,15 +100,7 @@ ammo: {
   }
 }
 requirements: [
-  copper/2000
-  lead/2000
-  silicon/2000
-  graphite/1500
-  titanium/1500
-  plastanium/1250
-  thorium/1500
-  surge-alloy/750
-  phase-fabric/1750
+  copper/200
 ]
 category: turret
 research: incendsilo
