@@ -40,14 +40,7 @@ ammo: {
   }
 }
 requirements: [
-  copper/2000
-  lead/2000
-  silicon/1250
-  graphite/1250
-  titanium/1500
-  plastanium/1000
-  thorium/1000
-  surge-alloy/750
+  copper/200
 ]
 category: turret
 research: missilefactory
