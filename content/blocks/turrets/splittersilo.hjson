@@ -393,14 +393,7 @@ ammo: {
   }
 }
 requirements: [
-  copper/2500
-  lead/2500
-  silicon/2000
-  graphite/2000
-  titanium/2000
-  plastanium/2500
-  thorium/2000
-  surge-alloy/1500
+  copper/200
 ]
 category: turret
 research: blanksilo
