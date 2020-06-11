@@ -21,7 +21,6 @@ requirements: [
   silicon/150
   titanium/150
   thorium/135
-  surge-alloy/60
 ]
 category: crafting
 research: cryofluidmixer
