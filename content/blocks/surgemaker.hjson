@@ -1,0 +1,28 @@
+type: GenericSmelter
+localizedName: "[#F90800]Surge Crafter"
+description: "Create Surge."
+size: 1
+hasPower: true
+flameColor: 7affbd
+craftTime: 1
+itemCapacity: 500
+consumesPower: true
+consumes: {
+  power: {
+    usage: 3000
+    capacity: 3000
+  }
+  items: {
+    items: [
+      copper/1
+    ]
+  }
+}
+outputItem: surge-alloy/10
+requirements: [
+  copper/200
+]
+category: crafting
+research: spectre
+idleSound: respawning
+idleSoundVolume: 0.5
