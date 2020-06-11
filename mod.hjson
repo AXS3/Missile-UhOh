@@ -1,8 +1,9 @@
 name: broken-ohno-missiles
 displayName: "[#F90800]Custom Mod"
-author: "ASX3"
+author: "[#F90800]ASX3"
 description:
   '''
+  Test Mod
   '''
 version: 4.3
 dependencies:["multi-lib"]
