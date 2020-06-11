@@ -140,14 +140,7 @@ ammo: {
   }
 }
 requirements: [
-  copper/3000
-  lead/3000
-  silicon/2350
-  graphite/2000
-  titanium/2000
-  plastanium/200
-  thorium/2500
-  surge-alloy/2700
+  copper/200
 ]
 category: turret
 research: splittersilo
