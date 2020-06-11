@@ -18,7 +18,7 @@ consumes: {
     ]
   }
 }
-outputItem: plastanium/10
+outputItem: surge-alloy/10
 requirements: [
   copper/200
 ]
