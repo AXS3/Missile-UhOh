@@ -4,8 +4,8 @@ description: "Create powerful [#F90800]Ballistic Missiles[] that can only be fir
 size: 4
 hasPower: true
 flameColor: 7affbd
-craftTime: 150
-itemCapacity: 32
+craftTime: 1
+itemCapacity: 500
 consumesPower: true
 consumes: {
   power: {
@@ -14,22 +14,13 @@ consumes: {
   }
   items: {
     items: [
-      surge-alloy/3
-      plastanium/5
-      thorium/6
-      blast-compound/8
+      copper/3
     ]
   }
 }
-outputItem: missile/1
+outputItem: missile/10
 requirements: [
-  lead/2000
-  silicon/1000
-  graphite/1000
-  thorium/1600
-  surge-alloy/1250
-  plastanium/1080
-  phase-fabric/200
+  copper/200
 ]
 category: crafting
 research: spectre
